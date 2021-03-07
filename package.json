@@ -1,0 +1,15 @@
+{
+  "name": "bot-kd-warzone-discord",
+  "version": "1.0.0",
+  "description": "Get your K/D in Warzone",
+  "main": "index.js",
+  "author": "Dijalma Silva",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1"
+  }
+}
